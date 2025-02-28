@@ -1,0 +1,17 @@
+.classRed {
+    background-color: #ff9898;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.adjust-Fontsize {
+    font-size: 24px;
+}
+
+#numTwo {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#numFour {
+    background-color: rgb(134, 253, 144);
+    font-weight: bold;
+}
